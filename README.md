@@ -1,4 +1,4 @@
-## Hi!, I'm Nikita 
+## Hi there!
 
 ### 📫  Social
 [![Telegram](https://img.shields.io/badge/TELEGRAM-Hikitosik-grey?logo=telegram&style=for-the-badge)](https://t.me/Nikitosik47896)
