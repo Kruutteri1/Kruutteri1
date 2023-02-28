@@ -8,7 +8,7 @@
 ### 👨‍💻  Skills
 Some of the technologies I work with
 
-![Java](https://img.shields.io/badge/java-grey.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-grey.svg?style=for-the-badge&logo=java&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-grey.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 <a href = "https://leetcode.com/whiskels/">
