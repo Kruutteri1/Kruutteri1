@@ -11,6 +11,6 @@ Some of the technologies I work with
 ![Java](https://img.shields.io/badge/java-grey.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-grey.svg?style=for-the-badge&logo=spring&logoColor=white) ![Git](https://img.shields.io/badge/git-grey.svg?style=for-the-badge&logo=git&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-grey.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-grey.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Junit](https://img.shields.io/badge/JUnit-grey.svg?style=for-the-badge&logo=Junit5&logoColor=white)
 
 
-<a href = "https://leetcode.com/whiskels/">
+<a href = "https://leetcode.com/Kruutteri1/">
   <img align="center" src="https://leetcode.card.workers.dev/?username=Kruutteri1&theme=nord" />
 </a>
