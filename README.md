@@ -1,9 +1,10 @@
 ## Hi there!
-
+### Java Developer
 ### 📫  Social
 [![Telegram](https://img.shields.io/badge/TELEGRAM-Hikitosik-grey?logo=telegram&style=for-the-badge)](https://t.me/Nikitosik47896)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-grey?logo=leetcode&style=for-the-badge)](https://leetcode.com/Kruutteri1/)
 [![Codewars](https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/Kruutteri1) 
+![View counter](https://komarev.com/ghpvc/?username=Kruutteri1&style=for-the-badge)
 
 ### 👨‍💻  Skills
 Some of the technologies I work with
@@ -12,7 +13,5 @@ Some of the technologies I work with
 
 ![React](https://img.shields.io/badge/React-grey.svg?style=for-the-badge&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-grey.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Git](https://img.shields.io/badge/git-grey.svg?style=for-the-badge&logo=git&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-grey.svg?style=for-the-badge&logo=java&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-grey.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Junit](https://img.shields.io/badge/JUnit-grey.svg?style=for-the-badge&logo=Junit5&logoColor=white)
 
-
-<a href = "https://leetcode.com/Kruutteri1/">
-  <img align="center" src="https://leetcode.card.workers.dev/?username=Kruutteri1&theme=nord" />
-</a>
+[![GH Stats-Light](https://github-readme-stats.vercel.app/api?username=Kruutteri1&show_icons=true&theme=default&include_all_commits=true&hide_rank=true#gh-light-mode-only)](https://github.com/Kruutteri1/#gh-light-mode-only)
+[![LeetCode Stats](https://leetcode.card.workers.dev/Kruuttri1?theme=default&font=baloo&extension=null#gh-light-mode-only)](https://leetcode.com/u/Kruutteri1/#gh-light-mode-only)
