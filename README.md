@@ -1,7 +1,7 @@
 ## Hi there!
 ### Software Engineer | Backend | Java Developer
 ### 📫  Social
-[![Telegram](https://img.shields.io/badge/TELEGRAM-Hikitosik-grey?logo=telegram&style=for-the-badge)](https://t.me/Nikitosik47896)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-Cyrex-grey?logo=telegram&style=for-the-badge)](https://t.me/Cyrex322)
 [![LinkedIn](https://img.shields.io/badge/linkedin-grey.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kruutteri1) 
 [![LeetCode](https://img.shields.io/badge/LEETCODE-grey?logo=leetcode&style=for-the-badge)](https://leetcode.com/Kruutteri1/)
 [![Codewars](https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/Kruutteri1)
